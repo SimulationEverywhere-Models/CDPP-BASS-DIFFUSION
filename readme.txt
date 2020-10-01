@@ -1,0 +1,4 @@
+-to simulate the model, run the test.bat file.
+-to draw the model, run the draw.bat file.
+-to animate the model, use the colour.pal to change the colour.
+-to run 3D load diffusion'.vis from DEVSview.exe.
